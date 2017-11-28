@@ -1,0 +1,10 @@
+h1{
+  text-align: center;
+  color: black;
+}
+.important{
+  color: grey;
+}
+.unimportant{
+  color: blue;
+}
